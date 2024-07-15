@@ -1,0 +1,23 @@
+body {
+    margin-top: 0px;
+}
+.main {
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
+    position: relative;
+}
+.bg-dark {
+    background-color: #343a40;
+}
+.h-rem-10 {
+    height: 2.5rem;
+}
+.pt-56 {
+    padding-top: 14rem;
+}
+.gradient-bottom-right {
+    background: linear-gradient(to bottom right, #5c60f5,#8957ff,#fb0)!important;
+}
+.gradient-bottom-right1 {
+    background: linear-gradient(to bottom right, #475569,#000,#475569);
+}
